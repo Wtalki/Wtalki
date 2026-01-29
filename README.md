@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! I'm Hendrix Rocco<br>I'm a passionate web developer specializing in full-stack development. Currently, I’m focused on building applications using Laravel and JavaScript frameworks. I love tackling complex problems and creating efficient solutions.<br><br>🔧 Technologies & Tools<br>Languages: JavaScript, PHP, HTML, CSS<br>Frameworks: Laravel, React, Vue.js<br>Databases: MySQL, PostgreSQL<br>Tools: Git, Docker, VSCode<br>🌱 Currently Learning<br>I'm always looking to expand my skills. Currently, I'm diving deeper into:<br><br>Cloud computing with AWS<br>DevOps practices<br>💬 Let’s Connect!<br>Feel free to reach out if you want to collaborate on a project, share ideas, or just chat!<br><br>LinkedIn<br>Twitter<br>📫 How to reach me<br>Email: walki6talki@gmail.com<br>
+Full-Stack JavaScript Developer specializing in Vue, Node.js, and Laravel.
+I build scalable web applications with authentication systems, dashboards, and REST APIs.
+Focused on clean architecture, performance, and real-world problem solving.
 
 
 ## 🌐 Socials:
