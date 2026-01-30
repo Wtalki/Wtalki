@@ -32,9 +32,29 @@ Git • Postman • Docker • Apache
 ---
 ---
 
-## 📊 GitHub Activity
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Wtalki&theme=dark&hide_border=true&count_private=true)
+## 🌍 Production Projects
+
+### 🔹 Gaming / Lottery Platform Systems  
+Worked on real-time web platforms including:
+
+- https://aladinslots.com  
+- https://shwekankaung.com  
+- https://88lotto.vip  
+- https://onyx06.space  
+- https://ngwepwar2d.com  
+
+**My Contributions:**
+- Fullstack feature development (Vue.js + Node/Laravel)
+- Authentication & user flow systems
+- Admin dashboards
+- API integrations
+- Database structure and performance optimization
+- Responsive UI and frontend architecture
+
+> Experience building high-traffic, real-user web systems.
+
 
 ## 🧩 What I Build
 
