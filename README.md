@@ -50,14 +50,6 @@ Git • Postman • Docker • Apache
 
 ---
 
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=Wtalki&theme=dark&hide_border=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wtalki&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wtalki&theme=dark&hide_border=true&layout=compact)
-
----
-
 ## 🏆 Highlights
 
 - Consistent contributor  
