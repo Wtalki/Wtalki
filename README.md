@@ -13,21 +13,21 @@ Vue.js • JavaScript • Tailwind CSS • Vuetify
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
-**Backend**  
-Node.js • Express • Laravel • REST APIs  
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-
+### Backend  
+Node.js • Express • Laravel  
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Database**  
 MySQL • PostgreSQL • MongoDB  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Tools & Workflow**  
+### Tools & Workflow  
 Git • Postman • Docker • Apache  
 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-D22128?style=flat&logo=apache&logoColor=white)
 
 ---
 
