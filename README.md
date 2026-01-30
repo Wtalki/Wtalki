@@ -30,6 +30,11 @@ Git • Postman • Docker • Apache
 ![Apache](https://img.shields.io/badge/apache-D22128?style=flat&logo=apache&logoColor=white)
 
 ---
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=Wtalki&theme=dark&hide_border=true&count_private=true)
 
 ## 🧩 What I Build
 
