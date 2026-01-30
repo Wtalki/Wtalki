@@ -69,9 +69,8 @@ Worked on real-time web platforms including:
 ## 🌐 Professional Links
 
 - 💼 LinkedIn: https://linkedin.com/in/WalkiTalki  
-- 💻 Portfolio: https://yourportfolio.com  
-- 🧠 CodePen: https://codepen.io/WalkiTalki  
-- 📫 Email: your@email.com  
+- 💻 Portfolio: https://professionalportfolio-gray.vercel.app/  
+- 📫 Email: walki6talki@email.com
 
 ---
 
